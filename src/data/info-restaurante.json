@@ -1,0 +1,30 @@
+{
+  "nombre": "Huaranga",
+  "eslogan": "Sabores de Raíz y Fuego",
+  "vision":"Proyectamos consolidarnos para el año 2030 como uno de los restaurantes de referencia en la Región, siendo reconocidos a nivel regional no solo por la calidad y autenticidad de nuestra gastronomía de carnes y parrillas, sino también por nuestro compromiso con la sostenibilidad y la preservación de la identidad cultural. Aspiramos a convertirnos en un atractivo gastronómico que inspire a otros negocios del sector, demostrando que es posible alcanzar el éxito empresarial mientras se promueve el uso responsable de los recursos.",
+  "mision":"Ofrecer una experiencia gastronómica única que combine tradición, naturaleza y hospitalidad, destacando los sabores auténticos de la cocina rústica peruana a través de preparaciones elaboradas al fuego y con insumos de calidad provenientes de productores locales. Buscamos satisfacer a nuestros clientes, preservar la identidad cultural de nuestra región y contribuir al desarrollo sostenible de nuestra comunidad.",
+  "valores": [
+    {
+      "titulo": "Hospitalidad Cálida",
+      "descripcion": "Recibimos a nuestros comensales como si fueran invitados a nuestra propia casa, brindando un servicio atento, cercano y profesional que crea momentos memorables."
+    },
+    {
+      "titulo": "Respeto",
+      "descripcion": "Fomentamos un ambiente laboral basado en la colaboración, la confianza y el respeto mutuo. Reconocemos el valor de cada colaborador y promovemos la participación para alcanzar objetivos comunes y brindar un servicio de excelencia."
+    },
+    {
+      "titulo": "Desarrollo del Talento Humano",
+      "descripcion": "Impulsamos la capacitación constante, el crecimiento profesional y el bienestar de nuestros colaboradores, reconociendo que son el principal motor para alcanzar el éxito organizacional."
+    },
+    {
+      "titulo": "Integridad y Transparencia",
+      "descripcion": "Actuamos con honestidad en cada eslabón de la cadena: desde el peso exacto de los cortes hasta la claridad con nuestros proveedores y clientes."
+    },
+    {
+      "titulo": "Higiene y Rigor",
+      "descripcion": "Mantenemos los más altos estándares de inocuidad y limpieza en nuestras cocinas y áreas de servicio, garantizando la tranquilidad de quienes nos eligen."
+    }
+  ]
+
+
+}

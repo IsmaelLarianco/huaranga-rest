@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "nombre": "Chorizo Parrillero",
+    "descripcion": "Chorizo artesanal a la parrilla acompañado de salsa criolla.",
+    "precio": 22,
+    "categoria": "Entrantes"
+  },
+  {
+    "id": 2,
+    "nombre": "Mollejitas Doradas",
+    "descripcion": "Mollejas de pollo a la parrilla con chimichurri.",
+    "precio": 24,
+    "categoria": "Entrantes"
+  },
+  {
+    "id": 3,
+    "nombre": "Provoleta al Horno",
+    "descripcion": "Queso provolone gratinado con orégano y tomate confitado.",
+    "precio": 26,
+    "categoria": "Entrantes"
+  },
+  {
+    "id": 4,
+    "nombre": "Anticuchos de Corazón",
+    "descripcion": "Brochetas de corazón de res con papa dorada y choclo.",
+    "precio": 28,
+    "categoria": "Entrantes"
+  },
+  {
+    "id": 5,
+    "nombre": "Ensalada Huaranga",
+    "descripcion": "Mix de lechugas, tomate cherry, palta, queso fresco y vinagreta de la casa.",
+    "precio": 22,
+    "categoria": "Ensaladas"
+  },
+  {
+    "id": 6,
+    "nombre": "Ensalada Parrillera",
+    "descripcion": "Lechuga, vegetales grillados y láminas de carne a la parrilla.",
+    "precio": 28,
+    "categoria": "Ensaladas"
+  },
+  {
+    "id": 7,
+    "nombre": "Caldo de Carne",
+    "descripcion": "Carne de res cocida lentamente con verduras.",
+    "precio": 22,
+    "categoria": "Sopas"
+  },
+  {
+    "id": 8,
+    "nombre": "Crema de Zapallo",
+    "descripcion": "Con crotones artesanales y queso parmesano.",
+    "precio": 18,
+    "categoria": "Sopas"
+  },
+  {
+    "id": 9,
+    "nombre": "Lomo Fino Premium (300 g)",
+    "descripcion": "Acompañado de papas nativas y ensalada fresca.",
+    "precio": 72,
+    "categoria": "Parrillas"
+  },
+  {
+    "id": 10,
+    "nombre": "Bife Ancho Angus (350 g)",
+    "descripcion": "Jugoso corte a la parrilla con chimichurri.",
+    "precio": 78,
+    "categoria": "Parrillas"
+  },
+  {
+    "id": 11,
+    "nombre": "Picaña a la Parrilla (350 g)",
+    "descripcion": "Servida con vegetales grillados y papas crocantes.",
+    "precio": 75,
+    "categoria": "Parrillas"
+  },
+  {
+    "id": 12,
+    "nombre": "Asado de Tira Braseado",
+    "descripcion": "Cocción lenta sobre carbón acompañado de puré rústico.",
+    "precio": 68,
+    "categoria": "Parrillas"
+  },
+  {
+    "id": 13,
+    "nombre": "Lomo Saltado Huaranga",
+    "descripcion": "Lomo fino salteado al wok con cebolla, tomate, papas fritas y arroz blanco.",
+    "precio": 55,
+    "categoria": "Especialidades Huaranga",
+    "imagen":"/public/images/platos/13.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Tacu Tacu con Lomo a la Parrilla",
+    "descripcion": "Tradicional tacu tacu acompañado de lomo fino a la parrilla y salsa de chimichurri.",
+    "precio": 62,
+    "categoria": "Especialidades Huaranga",
+    "imagen":"/public/images/platos/14.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Churrasco a lo Pobre",
+    "descripcion": "Churrasco de res acompañado de papas fritas, arroz, huevo frito y plátano maduro.",
+    "precio": 59,
+    "categoria": "Especialidades Huaranga",
+    "imagen":"/public/images/platos/15.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Anticuchos Premium",
+    "descripcion": "Corazón de res marinado en ají panca, acompañado de papa dorada, choclo y salsa de ají.",
+    "precio": 42,
+    "categoria": "Especialidades Huaranga",
+    "imagen":"/public/images/platos/16.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Papas Rústicas",
+    "descripcion": "Guarnición de papas rústicas.",
+    "precio": 15,
+    "categoria": "Acompañamientos"
+  },
+  {
+    "id": 18,
+    "nombre": "Puré de Papa",
+    "descripcion": "Puré de papa casero.",
+    "precio": 15,
+    "categoria": "Acompañamientos"
+  },
+  {
+    "id": 19,
+    "nombre": "Arroz con Choclo",
+    "descripcion": "Arroz acompañado de choclo.",
+    "precio": 14,
+    "categoria": "Acompañamientos"
+  },
+  {
+    "id": 20,
+    "nombre": "Camote Glaseado",
+    "descripcion": "Camote glaseado.",
+    "precio": 15,
+    "categoria": "Acompañamientos"
+  },
+  {
+    "id": 21,
+    "nombre": "Cheesecake de Maracuyá",
+    "descripcion": "Postre de cheesecake con maracuyá.",
+    "precio": 18,
+    "categoria": "Postres"
+  },
+  {
+    "id": 22,
+    "nombre": "Brownie con Helado",
+    "descripcion": "Brownie acompañado de helado.",
+    "precio": 20,
+    "categoria": "Postres"
+  },
+  {
+    "id": 23,
+    "nombre": "Pie de Limón",
+    "descripcion": "Pie de limón tradicional.",
+    "precio": 17,
+    "categoria": "Postres"
+  },
+  {
+    "id": 24,
+    "nombre": "Suspiro Limeño",
+    "descripcion": "Postre tradicional peruano.",
+    "precio": 18,
+    "categoria": "Postres"
+  },
+  {
+    "id": 25,
+    "nombre": "Limonada Clásica",
+    "descripcion": "Limonada natural.",
+    "precio": 12,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 26,
+    "nombre": "Limonada Frozen",
+    "descripcion": "Limonada estilo frozen.",
+    "precio": 15,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 27,
+    "nombre": "Maracuyá Frozen",
+    "descripcion": "Bebida frozen de maracuyá.",
+    "precio": 15,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 28,
+    "nombre": "Chicha Morada",
+    "descripcion": "Bebida tradicional peruana.",
+    "precio": 10,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 29,
+    "nombre": "Gaseosas",
+    "descripcion": "Variedad de gaseosas.",
+    "precio": 8,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 30,
+    "nombre": "Agua Mineral",
+    "descripcion": "Agua mineral embotellada.",
+    "precio": 7,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 31,
+    "nombre": "Cerveza Artesanal",
+    "descripcion": "Cerveza artesanal.",
+    "precio": 18,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 32,
+    "nombre": "Vino de la Casa (Copa)",
+    "descripcion": "Copa de vino de la casa.",
+    "precio": 22,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 33,
+    "nombre": "Vino de la Casa (Botella)",
+    "descripcion": "Botella de vino de la casa.",
+    "precio": 85,
+    "categoria": "Bebidas"
+  }
+]

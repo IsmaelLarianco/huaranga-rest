@@ -12,7 +12,7 @@ export default function Footer() {
 
         {/* Columna 1: Logo */}
         <div>
-          <img className="h-40" src="public/images/logo-completo.png"></img>
+          <img className="h-40" src="/images/logo-completo.png"></img>
         </div>
 
         {/* Columna 2: Mapa del sitio */}

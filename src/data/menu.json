@@ -89,7 +89,7 @@
     "descripcion": "Lomo fino salteado al wok con cebolla, tomate, papas fritas y arroz blanco.",
     "precio": 55,
     "categoria": "Especialidades Huaranga",
-    "imagen":"/public/images/platos/13.jpg"
+    "imagen":"/images/platos/13.jpg"
   },
   {
     "id": 14,
@@ -97,7 +97,7 @@
     "descripcion": "Tradicional tacu tacu acompañado de lomo fino a la parrilla y salsa de chimichurri.",
     "precio": 62,
     "categoria": "Especialidades Huaranga",
-    "imagen":"/public/images/platos/14.png"
+    "imagen":"/images/platos/14.png"
   },
   {
     "id": 15,
@@ -105,7 +105,7 @@
     "descripcion": "Churrasco de res acompañado de papas fritas, arroz, huevo frito y plátano maduro.",
     "precio": 59,
     "categoria": "Especialidades Huaranga",
-    "imagen":"/public/images/platos/15.png"
+    "imagen":"/images/platos/15.png"
   },
   {
     "id": 16,
@@ -113,7 +113,7 @@
     "descripcion": "Corazón de res marinado en ají panca, acompañado de papa dorada, choclo y salsa de ají.",
     "precio": 42,
     "categoria": "Especialidades Huaranga",
-    "imagen":"/public/images/platos/16.png"
+    "imagen":"/images/platos/16.png"
   },
   {
     "id": 17,
